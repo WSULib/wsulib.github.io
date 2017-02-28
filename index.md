@@ -1,2 +1,3 @@
-# Hello World!
-[library main page](http://library.wayne.edu)
+# Wayne State University Library
+
+Stay tuned.
