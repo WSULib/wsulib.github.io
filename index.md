@@ -1,2 +1,2 @@
 # Hello World!
-[http://library.wayne.edu](test link)
+[library main page](http://library.wayne.edu)
