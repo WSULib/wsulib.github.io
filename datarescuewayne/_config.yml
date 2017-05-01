@@ -1,0 +1,41 @@
+---
+
+port: 4000
+host: 0.0.0.0
+safe: false
+
+
+### site serving configuration ###
+exclude: [CNAME, README.md, .gitignore, _posts_2015, Gemfile, Gemfile.lock]
+timezone: Europe/London
+lsi: false
+markdown: kramdown
+highlighter: rouge
+
+
+### content configuration ###
+title:       "DataRescue Wayne"
+keywords:    ""
+description: "Home page for DataRescue Wayne"
+source_link: 
+favicon:     "img/data_rescue_sf_favicon.jpg"
+touch_icon:  "data_rescue_sf_favicon.jpg"
+google_analytics_key:
+
+
+### template colors, used site-wide via css ###
+colors:
+  black:     '#111111'
+  white:     '#FFFFFF'
+  offwhite:  '#f8f8f8'
+  blue:      '#49a7e9'
+  green:     '#9bcf2f'
+  purple:    '#c869bf'
+  orange:    '#fab125'
+  turquoise: '#0fbfcf'
+  darkred:   '#940a3d'
+  limegreen: '#82940a'
+  softgreen: '#0a9461'
+  darkblue:  '#240563'
+  midgray:   '#666666'
+  pink:      '#FF7373'
