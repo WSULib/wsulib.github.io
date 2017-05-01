@@ -1,0 +1,3 @@
+[submodule "datarescuewayne"]
+	path = datarescuewayne
+	url = https://github.com/WSULib/datarescuewayne
